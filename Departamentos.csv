@@ -1,0 +1,7 @@
+cod_departamento,nom_departamento,cod_gerente,andar,tarefa_alocada
+14,Suporte e Manutenção,2345,6,Auxílio em áreas relacionadas a hardware e software
+15,Desenvolvimento de Software,1122,5,Desenvolvimento e manutenção de aplicações
+16,Infraestrutura de TI,3202,4,Gerenciamento de servidores e redes
+17,Segurança da Informação,9432,3,Proteção de dados e prevenção de ameaças cibernéticas
+18,Análise de Sistemas,1456,2,Análise e projeto de sistemas de informação
+19,Suporte Técnico,5877,1,Atendimento a usuários e resolução de problemas técnicos

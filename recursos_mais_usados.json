@@ -1,0 +1,17 @@
+[
+    {
+        "id_recurso": 8,
+        "descricao": "ContrataÃ§Ã£o de empresa de backup de dados",
+        "total_utilizado": 20000
+    },
+    {
+        "id_recurso": 10,
+        "descricao": "ServiÃ§os de design de interface",
+        "total_utilizado": 15000
+    },
+    {
+        "id_recurso": 17,
+        "descricao": "Software de anÃ¡lise de dados",
+        "total_utilizado": 12000
+    }
+]

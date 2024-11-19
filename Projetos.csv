@@ -1,0 +1,6 @@
+id_projeto,nome_projeto,descricao,data_inicio,data_conclusao,id_funcionario_responsavel,custo,status
+1,Desenvolvimento de Sistema Interno,Desenvolvimento de um sistema para gestão de recursos internos.,2024-01-10,2024-06-15,1122,25000,Concluido
+2,Migração de Servidores,Migração dos servidores para uma nova infraestrutura.,2024-02-20,,3202,15000,Em Execucao
+3,Plano de Segurança de Dados,Elaboração de um plano estratégico de segurança.,2024-03-05,2024-10-10,9432,20000,Concluido
+4,Desenvolvimento de API,Desenvolvimento de uma API para integração com sistemas externos.,2024-07-01,,1220,12000,Em Planejamento
+5,Análise de Dados de Vendas,Projeto para análise de dados de vendas para otimização de estoque.,2024-05-01,2024-08-15,2345,18000,Concluido

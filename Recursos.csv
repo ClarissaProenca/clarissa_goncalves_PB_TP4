@@ -1,0 +1,21 @@
+id_recurso,id_projeto,descricao,tipo_recurso,quantidade_utilizada,data_utilizacao
+1,1,Licenças de software de desenvolvimento,financeiro,10000,2024-04-01
+2,1,Desenvolvedores terceirizados,humano,5,2024-04-05
+3,2,Servidores dedicados para teste,material,3,2024-05-01
+4,2,Consultoria de segurança cibernética,humano,1,2024-05-10
+5,3,Equipamentos de rede e cabos,material,50,2024-06-15
+6,3,Contratação de especialistas em rede,humano,3,2024-06-18
+7,3,Materiais de treinamento para equipe,material,30,2024-06-20
+8,4,Contratação de empresa de backup de dados,financeiro,20000,2024-07-01
+9,4,Analistas de segurança temporários,humano,2,2024-07-05
+10,5,Serviços de design de interface,financeiro,15000,2024-08-01
+11,5,Consultoria em UX/UI,humano,1,2024-08-10
+12,5,Material de teste para interface de usuário,material,15,2024-08-15
+13,3,Equipamentos para suporte técnico,material,10,2024-09-01
+14,2,Assistentes técnicos temporários,humano,2,2024-09-10
+15,2,Materiais de treinamento em hardware,material,20,2024-09-12
+16,5,Consultoria para análise de dados,humano,2,2024-10-01
+17,1,Software de análise de dados,financeiro,12000,2024-10-05
+18,4,Compra de licenças de software antivírus,financeiro,8000,2024-11-01
+19,2,Contratação de técnicos para instalação de segurança,humano,2,2024-11-05
+20,4,Equipamentos de monitoramento de rede,material,25,2024-12-01

@@ -1,0 +1,17 @@
+[
+    {
+        "projeto": "Desenvolvimento de Sistema Interno",
+        "departamento": "Desenvolvimento de Software",
+        "custo_total": 25000.0
+    },
+    {
+        "projeto": "Desenvolvimento de Sistema Interno",
+        "departamento": "SeguranÃ§a da InformaÃ§Ã£o",
+        "custo_total": 20000.0
+    },
+    {
+        "projeto": "Desenvolvimento de Sistema Interno",
+        "departamento": "Suporte e ManutenÃ§Ã£o",
+        "custo_total": 18000.0
+    }
+]

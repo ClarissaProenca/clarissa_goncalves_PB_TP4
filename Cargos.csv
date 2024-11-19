@@ -1,0 +1,6 @@
+cod_cargo,des_cargo,salario_base,nivel,banco_horas
+1,Gerente de Setor,11000,Gerente,1
+2,Coordenador,8500,Coordenador,1
+3,Analista Superior,6000,Analista,1
+4,Analista Junior,5000,Analista,1
+5,Estagiário,1100,Estagiário,0
